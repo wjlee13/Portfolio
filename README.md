@@ -1,1 +1,1 @@
-This is to store all my past learning projects
+This is a self-learning exercise where i tried to clean data using MySQL
